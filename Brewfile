@@ -2,7 +2,7 @@
 brew "pyenv"
 brew "nvm"
 brew "postgresql"
-
+brew "openjdk"
 
 #GUI App
 tap "homebrew/cask"
@@ -12,3 +12,4 @@ cask "slack"
 cask "visual-studio-code"
 cask "sourcetree"
 cask "iterm2"
+cask "docker"
