@@ -2,7 +2,7 @@
 brew "pyenv"
 brew "nvm"
 brew "postgresql"
-brew "openjdk"
+brew "openjdk" #java
 
 #GUI App
 tap "homebrew/cask"
